@@ -1,0 +1,47 @@
+Week One
+Account Creation
+Overview of AWS
+VPC
+security groups 
+EC2
+
+
+week Two
+Putty connection
+IAM ; user, group,  roles policy, MFA, and keypair
+Managing storage EBS/Snapshot
+EFS
+
+
+Week Three
+s3 bucket and static website
+life cycle policy
+Cloudfront and Edge location
+
+
+Week Four
+SNS and CloudWatch
+AMI and Auto-scaling
+
+Week five
+RDS and Databases
+Elastic Load Balancer
+EFS, and S3 Mounting
+
+week six
+Ansible and playbooks
+
+week seven 
+packer and terra form 
+
+
+
+1.Virtual server Migration
+2.Packer
+3.Ansible
+4.Cloud formation   (say difference between Cloud formation and TerraForm)
+5.CI/CD- Continous integration/Continous delivery
+
+
+
+
